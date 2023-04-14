@@ -1,0 +1,18 @@
+.Addbtn{
+    background-color: green;
+    color:white;
+    border:none;
+    padding:5px 10px;
+    border-radius:10px;
+}
+.inputField{
+    border-radius:5px;
+    padding:5px;
+}
+.delbtn{
+    background-color: red;
+    color:white;
+    border:none;
+    padding:5px 10px;
+    border-radius:10px;
+}
