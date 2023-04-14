@@ -1,12 +1,12 @@
 import React from 'react'
 import Form from './Todolist/Form'
+import Home from './MovieApp/Home'
 
 const App = () => {
   return (
     <div>
-      <Form>
-
-      </Form>
+      {/* <Form/> */}
+      <Home/>
     </div>
   )
 }
